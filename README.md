@@ -116,7 +116,7 @@ else:
 ```
 ## Sample Input and Output
 
-![](Screenshot_20230125_074504.png)
+![](Screenshot_20230126_103739.png)
 ![](Screenshot_20230126_103811.png)
 ![](jan263.png)
 
